@@ -1,5 +1,5 @@
-# ROS-AI-week1-task-3
-ROS and AI week 1 
+# ROS-AI-week-2-task-3
+ROS and AI week 2 samrt methods internship
 task 3: ROS1-ROS2 Bridge
 
 # ROS1-ROS2 Bridge Installation and Talker-Chatter Example
