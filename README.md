@@ -26,4 +26,4 @@ $ ros2 topic list
 9.	creating a subscriber for the /chatter topic using the ros2 topic echo command: 
 $ ros2 topic echo /chatter
 
-### ROS2 receives the messages published by the ROS1 talker node and display it.
+#### ROS2 receives the messages published by the ROS1 talker node and display it.
