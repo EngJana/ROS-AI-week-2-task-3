@@ -15,7 +15,7 @@ $ sudo apt install ros-noetic-rospy-tutorials
 $ rosrun rospy_tutorials talker
 5.	In a separate terminal check the list of available topics in ROS1: 
 $ source /opt/ros/noetic/setup.bash
-6.Verify if the /chatter topic is listed among the topics: 
+6. Verify if the /chatter topic is listed among the topics: 
 $ rostopic list
 
 ## Open two terminals for ROS2
