@@ -2,7 +2,7 @@
 ROS and AI week 2 samrt methods internship
 task 3: ROS1-ROS2 Bridge
 
-# ROS1-ROS2 Bridge Installation and Talker-Chatter Example
+# ROS1-ROS2 Bridge Installation and Talker-output Example
 setting up the ROS1-ROS2 bridge and run the talker-output example
 
 1.	source ROS noetic in one: 
